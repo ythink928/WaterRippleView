@@ -11,6 +11,7 @@
 ```
 
 # 效果图
+![image](https://github.com/ythink928/WaterRippleView/blob/master/demo.gif)
 
 
 # 原理
